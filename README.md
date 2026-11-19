@@ -1,6 +1,6 @@
 # Academic project page
 
-Public ToIA project page. Figures are exports of arXiv:2609.19378v1 source PDFs (Fig. 1–3).
+Public ToIA project page. Figures are exports of arXiv:2609.19378v1 source PDFs (Figs. 1–2).
 
 Static HTML; run `python3 -m http.server 8000` to preview.
 
